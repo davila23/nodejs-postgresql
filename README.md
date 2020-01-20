@@ -1,4 +1,4 @@
-# What is this?
+# Project Description
 This is a simple REST API using Javascript Technologies and PostgreSQL.
 - nodejs
 - express
